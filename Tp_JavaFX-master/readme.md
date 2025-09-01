@@ -5,15 +5,15 @@ Une application JavaFX simple pour gérer une liste de produits. L'interface per
 ---
 
 ## 📸 Aperçu de l'application
-![Vue global](images/Layout.PNG)
+![Vue global](images/ajouter_product.PNG)
 
 ### 🧾 Formulaire et liste des produits
 
-![Vue formulaire et liste](images/Products-list.PNG)
+![Vue formulaire et liste](images/list_products.PNG)
 
 ### ✏️ Mise à jour d'un produit
 
-![Mise à jour d'un produit](images/update-product.PNG)
+![Mise à jour d'un produit](images/update_product.PNG)
 
 ---
 
